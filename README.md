@@ -12,4 +12,8 @@ Um projeto interativo que permite aos usuários compartilhar ideias de forma vis
  🛠️ Tecnologias Utilizadas  
 - *HTML* para estruturação da página  
 - *CSS* para estilização e animações  
-- *JavaScript* para interação dinâmica  
+- *JavaScript* para interação dinâmica
+-  📌 Como Usar  
+1. Clone este repositório:  
+   ```sh
+   git clone https://github.com/Kmartins88/Mural-Kauan.git
